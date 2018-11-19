@@ -20,7 +20,7 @@ Setup Guide
 2. Set the destination folder path to watch @`$watcher.Path` variable and set the log file destination folder @`Add-content` Section in StartMonitoring.ps1 file. Also, Please set time delay on the `sleep X`  at the bottom of the code.
 3. In `app\config.php` file edit with your aws public key and private secret key.
 4. In `index.php` file on your `s3->putObject` section given the S3 bucket name.
-5. Run the `task.bat` on windows task scheduler.
+5. Edit & Run the `task.bat` file on windows task scheduler.
 
 Developer
 --------------

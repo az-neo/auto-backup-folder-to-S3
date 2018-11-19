@@ -1,14 +1,1 @@
-11/17/2018 12:18:20,Created,C:\xampp\htdocs\test\loader.php,loader.php
-11/17/2018 12:18:20,Created,C:\xampp\htdocs\test\test.php,test.php
-11/17/2018 12:18:20,Created,C:\xampp\htdocs\test\database.php,database.php
-11/17/2018 12:18:20,Created,C:\xampp\htdocs\test\index.php,index.php
-11/17/2018 12:18:28,Created,C:\xampp\htdocs\test\applications for read.html,applications for read.html
-11/17/2018 13:15:50,Created,C:\xampp\htdocs\test\greeter.ts,greeter.ts
-11/17/2018 14:46:22,Created,C:\xampp\htdocs\test\image_check.php,image_check.php
-11/18/2018 15:24:43,Created,C:\xampp\htdocs\test\composer.json,composer.json
-11/18/2018 15:39:13,Created,C:\xampp\htdocs\test\credential.txt,credential.txt
-11/18/2018 15:39:13,Created,C:\xampp\htdocs\test\database.sql,database.sql
-11/18/2018 15:39:13,Created,C:\xampp\htdocs\test\do_install.php,do_install.php
-11/18/2018 15:49:38,Created,C:\xampp\htdocs\test\UPGRADE v4.txt,UPGRADE v4.txt
-11/18/2018 15:49:38,Created,C:\xampp\htdocs\test\PNL_1500874703.png,PNL_1500874703.png
-11/18/2018 15:49:38,Created,C:\xampp\htdocs\test\README.txt,README.txt
+

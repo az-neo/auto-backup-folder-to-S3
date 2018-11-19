@@ -16,10 +16,11 @@ It requires `PHP 5.5+` to work properly. Also need `PoweShell 4.0` or higher.
 
 Setup Guide
 --------------
-1. Set the destination folder path to watch @`$watcher.Path` variable and set the log file destination folder @`Add-content` Section in StartMonitoring.ps1 file. Also, Please set time delay on the `sleep X`  at the bottom of the code.
-2. In `app\config.php` file edit with your aws public key and private secret key.
-3. In `index.php` file on your `s3->putObject` section given the S3 bucket name.
-4. Run the `task.bat` on windows task scheduler.
+1. Run the `composer install` for installing the AWS-PHP-SDK
+2. Set the destination folder path to watch @`$watcher.Path` variable and set the log file destination folder @`Add-content` Section in StartMonitoring.ps1 file. Also, Please set time delay on the `sleep X`  at the bottom of the code.
+3. In `app\config.php` file edit with your aws public key and private secret key.
+4. In `index.php` file on your `s3->putObject` section given the S3 bucket name.
+5. Edit & Run the `task.bat` file on windows task scheduler.
 
 Contributors
 ----------------

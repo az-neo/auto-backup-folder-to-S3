@@ -21,8 +21,8 @@ Setup Guide
 3. In `index.php` file on your `s3->putObject` section given the S3 bucket name.
 4. Run the `task.bat` on windows task scheduler.
 
-Developer
---------------
+Contributors
+----------------
 1. [Mohiuddin Hyder Khan](https://www.linkedin.com/in/mohiuddin-khan-82469736/)(Advisor)
 2. [Farhad Kamal](https://www.linkedin.com/in/farhad-kamal-865b6b60/)(Advisor)
 3. [Shahriar Rashid Mahmud](https://github.com/Shahriar1824)(Developer)

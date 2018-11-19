@@ -23,7 +23,9 @@ Setup Guide
 
 Developer
 --------------
-1. [Shahriar Rashid Mahmud](https://github.com/Shahriar1824)
+1. [Mohiuddin Hyder Khan](https://www.linkedin.com/in/mohiuddin-khan-82469736/)(Advisor)
+2. [Farhad Kamal](https://www.linkedin.com/in/farhad-kamal-865b6b60/)(Advisor)
+3. [Shahriar Rashid Mahmud](https://github.com/Shahriar1824)(Developer)
 
 
 
